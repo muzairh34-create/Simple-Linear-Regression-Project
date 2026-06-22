@@ -9,8 +9,9 @@ It is the feature x or independent variable of the data
 It is the target variable or dependent variable
 soruce: simple linear regression dataset taken from the kaggle
 ## Machine Learning Algorithm
-Simple linear Regression (OLS Method)
-Goal: The algorithm finds the values of slope m and intercept b and draws a best fit line of the equation
+### Simple linear Regression (OLS Method)
+#### Goal: 
+The algorithm finds the values of slope m and intercept b and draws a best fit line of the equation
               salary = m * Experince + b 
 which can take unseen values of the experience and predicts the corresponding salary.             
 ## Technologies used
